@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+
+# Ignore OS-related files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Ignore logs, cache, and temporary files
+*.log
+.cache/
+.tmp/
+
+# Ignore editor/IDE specific files
+.vscode/
+.idea/
